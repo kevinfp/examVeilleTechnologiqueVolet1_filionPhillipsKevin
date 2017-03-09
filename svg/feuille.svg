@@ -1,0 +1,17 @@
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="302" width="302" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  
+  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+  <line x1="0" y1="0" x2="399" y2="200" style="stroke:rgb(255,0,0);stroke-width:2" />
+  <path  d="M350 0 L85 290 L215 70 " style='fill:none; stroke:rgb(255,0,0);stroke-width:4;' />
+ 
+
+
+ </g>
+</svg>

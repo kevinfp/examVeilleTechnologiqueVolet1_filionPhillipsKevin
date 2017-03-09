@@ -1,16 +1,12 @@
 body{
-  background: black;
+  background: white;
   position:relative;
 }
 
-.svg{
-  
-  top: -1920px;
+svg
+{
+  background-color: yellow;
 }
-
-
-
-
 
 /*
 .paths {
