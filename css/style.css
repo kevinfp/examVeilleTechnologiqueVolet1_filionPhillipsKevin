@@ -8,6 +8,20 @@ svg
   background-color: yellow;
 }
 
+.cercle
+{
+  fill:red;
+  stroke:blue;
+  stroke-width:0;
+}
+
+.ellipses
+{
+  fill:greenyellow;
+  stroke:blue;
+  stroke-width:0;
+}
+
 /*
 .paths {
   stroke-dasharray: 100;
