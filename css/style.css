@@ -1,0 +1,81 @@
+body{
+  background: black;
+  position:relative;
+}
+
+.svg{
+  
+  top: -1920px;
+}
+
+
+
+
+
+/*
+.paths {
+  stroke-dasharray: 100;
+  stroke-dashoffset: 100;
+  animation: dash 5s linear forwards;
+}
+
+@keyframes dash {
+  to {
+    stroke-dashoffset: 0;
+  }
+
+/*
+.title{
+  font-family: 'Freckle Face', cursive;
+  text-align:center;
+  color: #ecf0f1;
+  font-size: 23px;
+  animation: title 10s 1 ease-in-out;
+}
+@keyframes title{
+  0%{color: #c0392b;}
+}
+
+
+[id^=img_]{
+  stroke:#fdfdfd; 
+  stroke-width:1px;
+  fill:none;
+} 
+
+
+#img_4, #img_5, #img_6 {
+  animation: nuage 5s 5s infinite ease-in-out;
+}
+@keyframes nuage {
+  50% {transform:translateX(20%)}
+}
+
+
+
+
+
+
+
+#img_8, #img_10, #img_11{
+  transform:translateX(1000px);
+}
+
+
+
+#img_8{ 
+  animation: deplacement 12s 8s infinite ease-in-out;
+}
+
+#img_10{
+  animation: deplacement 5s 5s infinite ease-in-out;
+}
+
+#img_11{
+  animation: deplacement 12s 10s infinite ease-in-out;
+}
+
+@keyframes deplacement{
+  0%{transform:translateX(-1000px)}
+}
+*/
