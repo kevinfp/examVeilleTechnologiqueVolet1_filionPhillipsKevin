@@ -22,6 +22,24 @@ svg
   stroke-width:0;
 }
 
+
+#uneForme
+{
+
+transform-origin: 100px 100px;
+animation: rotationFormes 10s 0s infinite linear;
+}
+
+@keyframes rotationFormes { 
+        from { 
+            transform: rotate(0deg); 
+        } to { 
+            transform: rotate(360deg); 
+        }
+    }
+
+
+
 /*
 .paths {
   stroke-dasharray: 100;
